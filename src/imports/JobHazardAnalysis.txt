@@ -1,0 +1,196 @@
+OVERVIEW
+1. What Is a Hazard? A hazard is anything that has the potential to cause harm, such as injury, illness, fatality, or property damage.
+
+2. What Is a Job Hazard Analysis? A job hazard analysis (JHA) reviews each significant step of a job. It identifies existing and potential hazards. It determines the most effective control methods to eliminate the hazards or to reduce the risks of them occurring. The goal of the JHA is not only to identify hazards but also to control them in order to protect workers from harm and to prevent property damage.
+
+3. Who Should Perform the Job Hazard Analysis? Those assigned to oversee the work should perform the JHA. They should get input from experienced tradesmen and other workers who will be involved with each job.​—Prov. 11:14.
+
+4. When Should a Job Hazard Analysis Be Performed? Before work begins, a JHA should be performed for basic maintenance and repair work. If the work will involve high-risk activity, contact the Local Design/​Construction Department for direction.
+
+HOW TO FILL OUT THE CONGREGATION JOB HAZARD ANALYSIS (DC-85) FORM
+5. The steps to fill out the Congregation Job Hazard Analysis form are explained below:
+
+STEP 1: Write on the form the description of the job, the location where the job will be performed, the scheduled start date for the work, and the telephone number(s) to call in case of emergency.
+
+JOB DESCRIPTION
+Changing tile floor
+JOB LOCATION
+Kingdom Hall, auxiliary room
+SCHEDULED START DATE
+mm/​dd/​yyyy
+EMERGENCY NUMBER(S)
+012-345-6789
+STEP 2: Review the scope of the job. List each significant step necessary to complete the work in the “Job Steps” column.
+
+JOB STEPS
+Move furniture out of the room
+Pull up old tiles; remove old mortar
+Apply mortar; install new tiles
+STEP 3: Identify all existing and potential hazards for each step of the work. List these in the “Hazards” column. Consider how workers could be harmed. What could go wrong? What potential hazards could develop? Review the examples of health and safety hazards listed in paragraphs 6 and 7 below. Do not limit the analysis to the examples listed.
+
+HAZARDS
+Ergonomic: Back injuries from repetitive lifting or moving of heavy items
+Safety: Eye injuries from flying debris; cuts from broken tiles
+Chemical: Inhalation of dust
+Safety: Eye injuries from flying debris; cuts from sharp tile edges; knee injuries
+Chemical: Dust from mixing mortar
+Ergonomic: Awkward posture; repetitive motion
+STEP 4: Following the hierarchy of controls, recommend how each hazard can be eliminated or controlled. Review the hazard control methods listed in paragraph 9. Do not limit the potential controls to what is listed. List the recommended controls in the “Control Methods” column. Enter the name of the person(s) responsible for implementing the control method. Confirm that the controls are in place before work begins. For additional information, review the DC-80 safety outlines cited in this document, Working Together Safely​—Standards for Theocratic Construction and Maintenance (DC-82), other applicable safety guidelines, and local governmental regulations.
+
+CONTROL METHODS
+Administrative: Review safe lifting procedure; workers to perform team lifts of heavy items
+Assigned to Alan Actsafe
+PPE: Wear eye protection, work gloves, and appropriate respiratory protection
+Assigned to Billy Beware
+PPE: Wear eye protection, work gloves, knee pads, respiratory protection
+Administrative: Take stretch breaks; rotate workers to reduce exposure time
+Assigned to Wally Watchful
+FINAL STEPS: Review the applicable portions of the completed Congregation Job Hazard Analysis form each day with those who will perform the work, since new workers may be present. Post a copy of the completed form near the work area.
+
+HEALTH HAZARDS
+6. Overexposure can lead to an illness, a disease, or a condition.
+
+(1) Physical Hazards
+
+• Vibration (See DC-80 No. F8.)
+
+○ Could workers be exposed to high levels of vibration? (See the tool manufacturer’s information for vibration levels.)
+
+• Noise (See DC-80 No. C4.)
+
+○ Could workers be exposed to high noise levels?
+
+• Extreme Temperatures (Hot/​Cold) (See DC-80 Nos. C8-C10.)
+
+○ Could workers be exposed to high temperatures?
+
+○ Could workers be exposed to cold temperatures?
+
+• Radiation (See DC-80 No. C10.)
+
+○ Could workers be exposed to high levels of radiation? (Example: ultraviolet)
+
+• Electricity (See DC-80 Nos. A6, F2, and G10.)
+
+○ Could workers be near exposed or damaged electrical connections or equipment?
+
+(2) Chemical Hazards (See DC-80 Nos. D1-D4.)
+
+• Could workers be exposed to hazardous chemicals? (Examples: dusts, smoke, mists, fumes, sprays, vapors, gases, liquids)
+
+(3) Biological Hazards (See DC-80 No. C7.)
+
+• Could workers be exposed to hazards from plants, insects, animals, mold, bodily fluids (such as blood), viruses, or bacteria?
+
+• Could workers be at risk from drinking unsafe water or from eating improperly prepared, cooked, or stored food?
+
+(4) Ergonomic Hazards (See DC-80 Nos. C3, C5, F6, J4-J5, and J9.)
+
+• Could workers be exposed to overexertion, awkward posture(s), excessive force, or repetitive motion(s)?
+
+(5) Psychological Hazards (See DC-80 Nos. B3 and B5.)
+
+• Could workers be exposed to excessive stress, pressure, or fatigue?
+
+SAFETY HAZARDS
+7. Uncontrolled hazards can lead to an injury or a fatality.
+
+(1) People (See DC-80 Nos. B1-B6 and F3.)
+
+• Could workers develop unsafe actions? (Examples: being distracted, hurrying, taking shortcuts, being overly competitive)
+
+• Could workers develop unsafe attitudes? (Examples: overconfidence, impatience, indifference, false sense of security)
+
+• Could lack of training put workers at risk?
+
+• Could lack of planning and communication put workers at risk?
+
+• Do workers have an adequate level of skill and experience to perform the work safely?
+
+(2) Equipment (See DC-80 Nos. E1, E8, and F1-F15.)
+
+• Could workers be at risk when using ladders? (Examples: improper use, unsafe setup or placement, defective ladders)
+
+• Could workers be at risk when working with or near tools or equipment? (Examples: pinch points, moving or rotating parts)
+
+• Could workers be at risk from using sharp tools? (Examples: knives, blades)
+
+• Could workers be at risk from moving vehicles? (Examples: parking-lot traffic, street traffic)
+
+(3) Energy (See DC-80 Nos. F2, F12, G1-G3, and G5-G9.)
+
+• Could workers be at risk from the accidental start-up of tools, equipment, or systems?
+
+• Could workers be at risk from a fire or an explosion when working with flammable liquids or gases?
+
+(4) Work Environment (See DC-80 Nos. A2, E2-E6, F16-F17, G4, and J1-J9.)
+
+• Could workers be at risk of falling from a height? (See paragraph 8.)
+
+• Could workers slip or trip? (Examples: wet surfaces, cords, debris)
+
+• Could workers be at risk from working with or near sharp objects?
+
+• Could workers be at risk from poor ventilation or inadequate lighting?
+
+• Could workers be at risk of cave-in or collapse of trenches or excavations?
+
+• Could stacked or stored materials collapse or tip over?
+
+• Could unsafe weather conditions develop? (Examples: lightning, heavy rain, high wind, snow, ice)
+
+WHEN TO CONTACT THE LOCAL DESIGN/​CONSTRUCTION DEPARTMENT
+8. Contact the Local Design/​Construction Department for direction in the following situations:
+
+(1) There are no local volunteers available to carry out the work safely.
+
+(2) The work involves high-risk activity.​—See Working Together Safely—​Standards for Theocratic Construction and Maintenance (DC-82), chapter 2.
+
+HAZARD CONTROL METHODS
+9. Start from the top of the list that follows, and work down. If the hazard cannot be eliminated, use one or more of the other control methods that are listed to minimize the risk of harm.
+
+(1) ELIMINATION​—Remove the Hazard
+
+• Can you avoid working with the hazard?
+
+• Can the work be done without exposing workers to the hazard?
+
+• Can the work be contracted out?
+
+(2) SUBSTITUTION​—Replace the Hazard
+
+• Can you replace the hazard with something less hazardous? (Examples: a safer tool, quieter equipment, less toxic chemical)
+
+• Can a safer process be used to complete the work?
+
+(3) ENGINEERING​—Isolate People From the Hazard
+
+• Can guarding be used to control the hazard? (Examples: guards on tools and equipment, edge protection, covers on floor openings, covers on sharp objects)
+
+• Can the work areas be made safer? (Examples: nonslip flooring materials, ventilation, lighting, lockout/​tagout equipment, adequate shelter, facilities for handwashing)
+
+• Can safer tools or equipment be used? (Examples: modern tools with safety devices, safe storage equipment for flammables and chemicals, stable shelving)
+
+(4) ADMINISTRATIVE​—Change the Way People Work With the Hazard
+
+• Can training protect workers from the hazard?
+
+• Can a safe work procedure be developed, improved, or better implemented? (Examples: housekeeping, hygiene practices, safe ladder use, safe use of cutting tools, lockout/​tagout, safe chemical handling)
+
+• Can planning, communication, or supervision be improved?
+
+• Can scheduling reduce the risk of overexposure or overexertion? (Examples: rotation of workers, time-of-day job planning, selecting workers who can safely perform the job)
+
+• Can warning signs or labels protect workers from the hazard?
+
+(5) PERSONAL PROTECTIVE EQUIPMENT (PPE)​—Reduce Worker Exposure to the Hazard (See DC-80 Nos. C1-C12 and D2.)
+
+• Can PPE protect workers from the hazard? (Examples: hard hat, safety glasses/​goggles, face shield, protective footwear, respirator, gloves, ear plugs/​ear muffs)
+
+• When workers are using PPE, always ensure the following:
+
+○ It is of good quality and is readily available.
+
+○ It is the proper type and appropriate for the hazard.
+
+○ It is worn correctly. (Examples: respirators, fall-restraint or fall-arrest equipment)
