@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -28,16 +33,15 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          user_name: github-actions
-          user_email: github-actions@github.com
+        run: |
+          mkdir -p build
+          cp -r dist/* build/ 2>/dev/null || true
+          cd build
+          git init
+          git config user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git add .
+          git commit -m "Deploy to GitHub Pages"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:gh-pages
